@@ -3,14 +3,14 @@
 ### The track I use is HTML/CSS/JS and Bootstrap.
 
 #### Screenshots of the Desktop view.
-![homepage](./screenshots/homepage(1).png)
-![homepage](./screenshots/homepage(2).png)
-![aboutus](./screenshots/about%20Us.png)
-![services](./screenshots/services.png)
-![doctors](./screenshots/doctors.png)
-![appointment](./screenshots/appointment%20form.png)
+![homepage](./screenshots/desktop%20view/homepage(1).png)
+![homepage](./screenshots/desktop%20view/homepage(2).png)
+![aboutus](./screenshots/desktop%20view/about%20Us.png)
+![services](./screenshots/desktop%20view/services.png)
+![doctors](./screenshots/desktop%20view/doctors.png)
+![appointment](./screenshots/desktop%20view/appointment%20form.png)
 
-#### Screenshots of the Desktop view.
+#### Screenshots of the Mobile view.
 ![homepage](./screenshots/mobile%20view/hp1.png)
 ![homepage](./screenshots/mobile%20view/hp(2).png)
 ![aboutus](./screenshots/mobile%20view/abUs(1).png)
