@@ -1,6 +1,6 @@
 ## I'm Sania Khalid and my Roll number is WD0120.
 
-### The track which I use That is HTML/CSS/JS and Bootstrap.
+### The track I use is HTML/CSS/JS and Bootstrap.
 
 #### Screenshots of the Desktop view.
 ![homepage](./screenshots/homepage(1).png)
